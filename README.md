@@ -1,4 +1,4 @@
-<!-- 1.some diffrence between interface and type in Typescript:
+1.some diffrence between interface and type in Typescript:
 
 #Interface:
  An interface is a structure which say what type of function stay in which class but not told  about function implementation.
@@ -51,4 +51,4 @@ In any object we can use interface but in primative type can't use interface pro
      age: 40,
   };
     
-  The variable person contains both name and age — required by both types. -->
+  The variable person contains both name and age — required by both types.
